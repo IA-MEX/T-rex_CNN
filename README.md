@@ -7,6 +7,7 @@ Reinforcement Learning approach:
 
 Actions:
   -0 ===>Jump
+  
   -1 ===>Nothing
   
 Reward:
