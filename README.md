@@ -1,6 +1,8 @@
 # T-rex_CNN
 Playing the t-rex game with Convolutional Neural Networks
 
+Python + Tensorflow + KERAS
+
 You can find the t-rex game here: http://www.trex-game.skipser.com/
 
 Reinforcement Learning approach:
